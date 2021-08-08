@@ -1,3 +1,6 @@
++) 리액트 Hooks 관련 강의를 듣고 블로그를 만들어보았습니다. 아직 강의를 다 못 들어서 몇 일내에 다 듣고 추후 업데이트할 예정입니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,5 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-+) 리액트 Hooks 관련 강의를 듣고 블로그를 만들어보았습니다. 아직 강의를 다 못 들어서 추후 업데이트할 예정입니다.
